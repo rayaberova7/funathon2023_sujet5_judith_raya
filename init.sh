@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone course repository
-REPO_URL="https://github.com/InseeFrLab/funathon2023_sujet5.git"
+REPO_URL="https://github.com/rayaberova7/funathon2023_sujet5_judith_raya.git"
 CLONE_DIR="/home/onyxia/work/funathon-sujet5"
 git clone --depth 1 $REPO_URL $CLONE_DIR
 cd $CLONE_DIR
